@@ -1,10 +1,12 @@
 import React from "react";
-import { Button, buttonVariants } from "./ui/button";
+import Link from "next/link";
+
+import { buttonVariants } from "./ui/button";
+
 import { VscGithubAlt } from "react-icons/vsc";
 import { BsTwitterX } from "react-icons/bs";
 import { HiOutlineMail } from "react-icons/hi";
-import Link from "next/link";
-import { Popover, PopoverTrigger } from "./ui/popover";
+
 import {
   Tooltip,
   TooltipContent,

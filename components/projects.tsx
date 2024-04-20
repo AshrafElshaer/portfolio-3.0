@@ -1,6 +1,6 @@
 import Link from "next/link";
-import React from "react";
 import { buttonVariants } from "./ui/button";
+
 import { Separator } from "./ui/separator";
 import { HoverCard, HoverCardContent, HoverCardTrigger } from "./ui/hover-card";
 
