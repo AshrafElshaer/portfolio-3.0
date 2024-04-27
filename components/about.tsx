@@ -18,10 +18,7 @@ export default function About() {
       <span className="mt-2">
         Let&apos;s build innovative solutions together !
       </span>
-      <span className="mt-2">
-        Available for Full stack projects , Hit me up for a collab .
-        {/* get the emoji in lighter color */}
-      </span>
+     
     </section>
   );
 }

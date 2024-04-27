@@ -1,4 +1,5 @@
 import About from "@/components/about";
+import ContributionHeatmap from "@/components/contribution-heatmap";
 import Experiance from "@/components/experiance";
 import Projects from "@/components/projects";
 import Qoute from "@/components/qoute";
@@ -13,6 +14,7 @@ export default function Home() {
       <Experiance />
       <Projects />
       <Qoute />
+      <ContributionHeatmap />
     </main>
   );
 }
