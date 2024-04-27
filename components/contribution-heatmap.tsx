@@ -118,7 +118,7 @@ function Cell({
       </TooltipTrigger>
       <TooltipContent
         side="top"
-        sideOffset={16}
+        sideOffset={24}
         className="flex flex-col justify-center items-center"
       >
         <span>{date?.format("MMM DD, YYYY")}</span>
